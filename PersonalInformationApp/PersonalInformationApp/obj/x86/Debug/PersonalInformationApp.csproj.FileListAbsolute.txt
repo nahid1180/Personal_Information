@@ -1,0 +1,15 @@
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.Form1.resources
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.Properties.Resources.resources
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.csproj.GenerateResource.Cache
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.exe
+C:\Users\Rana\Desktop\Nahid\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.exe
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\bin\Debug\PersonalInformationApp.pdb
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.csprojResolveAssemblyReference.cache
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.Form1.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.Properties.Resources.resources
+E:\Documents\BASIS\OOP C#-- ASP.NET\Practice\PersonalInformationApp\PersonalInformationApp\obj\x86\Debug\PersonalInformationApp.csproj.GenerateResource.Cache
